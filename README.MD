@@ -1,5 +1,5 @@
-A theme component that creates slideshow / carousel galleries in Discourse topics
+# Discourse Dark Admin Editor Component
 
-More information: https://meta.discourse.org/t/discourse-masonry-gallery-theme-component/79076
+A very simple theme that turns the admin editor dark. 
 
-Slick library (MIT) courtesy of Ken Wheeler @ http://kenwheeler.github.io/
+More information: 
