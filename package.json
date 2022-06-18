@@ -1,0 +1,10 @@
+{
+  "name": "discourse-dark-admin-editor",
+  "version": "1.0.0",
+  "repository": "https://github.com/discourse/discourse-dark-admin-editor",
+  "author": "Discourse",
+  "license": "GPL-2.0-or-later",
+  "devDependencies": {
+    "eslint-config-discourse": "^3.2.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "Dark Admin Editor",
+  "component": true,
   "about_url": "https://meta.discourse.org/t/dark-admin-editor-component/82113",
-  "license_url": "https://github.com/discourse/discourse-dark-admin-editor/blob/main/LICENSE",
-  "component": true
+  "license_url": "https://github.com/discourse/discourse-dark-admin-editor/blob/main/LICENSE"
 }
